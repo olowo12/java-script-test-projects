@@ -1,0 +1,14 @@
+body{
+     background-color: thistle;
+}
+.square{
+    width: 25%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 3%;
+}
+#container{
+     margin: 0 auto;
+     max-width: 650px;
+}
