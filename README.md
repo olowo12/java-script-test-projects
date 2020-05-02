@@ -1,1 +1,1 @@
-this is showing user how i went my project and other related topics
+this is are my 1st ever Javascript projects
